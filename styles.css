@@ -1,0 +1,20 @@
+body {
+  background-color: #b3cd41;
+  background: linear-gradient(
+    to right,
+    #2eac66,
+    #2eac66 20%,
+    transparent,
+    20%,
+    #7ebc57 40%,
+    transparent,
+    40%,
+    #b3cd41 60%,
+    transparent,
+    60%,
+    #dfdd19 80%,
+    transparent,
+    80%,
+    #ffed00 100%
+  );
+}
